@@ -1,23 +1,12 @@
-<html>
-	<head>
-		<link rel="stylesheet" href="style.css?v=1.0">
-		<style>
-			body{
-				background:url('https://sanhom.dynv6.net:33443/wp-content/uploads/2023/02/bg.jpg') top center;
-				background-color: #dedabd;
-				background-repeat:no-repeat;
-				background-attachment:fixed;
-				background-size: contain;
-				position: relative;
-				filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://sanhom.dynv6.net:33443/wp-content/uploads/2023/02/bg.jpg', sizingMethod='scale');
-		</style>
-	</head>
-	<body>
-		<a href="http://sanhom.dynv6.net:8082" target="_blank">
-		<div background="#333333">
-		<br><img src="https://sanhom.dynv6.net:33443/wp-content/uploads/2023/02/jdql.jpg" alt="京东挂机短信自助登录"  width="64" height="64" />
-		<br>
-		<font color="white">挂京豆上车</font></div></a>
-		<br>
-	</body>
-</html>
+ <img src="https://sanhom.dynv6.net:33443/wp-content/uploads/2023/02/bg.jpg" width="100%">
+
+- 👋 Hi, I’m @Sanhom365 .
+- 👀 我爱好计算机，喜欢搭建网络服务，也喜欢玩电脑游戏。除了这些我还喜欢玩玩金融，如股票等。
+- 🌱 我现在一直在学习和使用 Visual Basic .Net。
+- 💞️ 我希望能通过 Visual Basic .Net 来实现简单的游戏服务器和窗口型客户端，并使两者之间可以传递数据，以实现完整的游戏操作流程。
+- 📫 联系方式—……可以先留言吧。
+
+<!---
+Sanhom365/Sanhom365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
