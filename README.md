@@ -1,5 +1,3 @@
- <img src="https://sanhom.dynv6.net:33443/wp-content/uploads/2023/02/bg.jpg" width="100%">
-
 - 👋 Hi, I’m @Sanhom365 .
 - 👀 我爱好计算机，喜欢搭建网络服务，也喜欢玩电脑游戏。除了这些我还喜欢玩玩金融，如股票等。
 - 🌱 我现在一直在学习和使用 Visual Basic .Net。
